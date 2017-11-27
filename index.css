@@ -1,0 +1,100 @@
+html{
+    font-family: "Lucida Console", Lucida, monospace;
+}
+
+#Logo {
+    margin-left: 12.5%;
+    width: 75%;
+    height: 20%;
+    text-align: center;
+} 
+
+
+.LinieHeader{
+    margin-left: 12.5%
+}
+
+#ButonHeader{
+    width: 75%;
+    height: 5%;
+    text-align: center;
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    width: 50%;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+#BaraSearch{
+    display: inline-block;
+    padding-top: 25%;
+}
+
+input{
+    border-radius: 8px;
+}
+
+#ButonSearch{
+    display: inline-block;
+    padding: 4px 6px;
+    border-radius: 8px;
+    background-color: #333;
+    color: white;
+}
+
+div a{
+    text-decoration: none;
+    color: white;
+}
+
+div #ButonSearch:hover{
+    background-color: #111
+}
+
+#Corp{
+    text-align: center;
+    vertical-align: center;
+    height: 75%
+}
+
+#formular{
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: green;
+}
+
+.Adnotari{
+    width: 20%;
+    height: 30%;
+    vertical-align: top;
+}
+
+form{
+    line-height: 1.8
+}
